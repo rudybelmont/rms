@@ -6,3 +6,8 @@
 # Maven
 log/
 target/
+rms-servlet-web/
+
+\.settings/
+
+\.project
